@@ -5,3 +5,4 @@ Tracking my daily progress in Python, Excel, and data analysis.
 - [Day 2](day2.md)
 - [Day 3](day3.md)
 - [Day 4](day4.md)
+- [Day 4](day4.md)
