@@ -9,3 +9,4 @@ Tracking my daily progress in Python, Excel, and data analysis.
 - [Day 6](day6.md)
 - [Day 7](day7.md)
 - [Day 8](day8.md)
+- [Day 9](day9.md)
