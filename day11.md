@@ -1,7 +1,7 @@
 # Python Revision Log
 
 #  Date: 12 June 2026  
-#  Day 11 – Revision Summary
+
 
 # Revised Concepts
 - Syntax (indentation rules)  
@@ -34,4 +34,4 @@
 
 ---
 
-# Today I revised all the above **Python fundamentals** to strengthen my basics before moving to advanced topics.
+Today I revised all the above **Python fundamentals** to strengthen my basics before moving to advanced topics.
