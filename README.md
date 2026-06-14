@@ -13,3 +13,4 @@ Tracking my daily progress in Python, Excel, and data analysis.
 - [Day 10](day10.md)
 - [Day 11](day11.md)
 - [Day 12](day12.md)
+- [Day 13](day13.md)
