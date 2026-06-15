@@ -1,7 +1,7 @@
 #Day 14 – String, Concatenation & Formatting Practice
 #Date: 2026-06-15
 
-🔹 String Questions
+# String Questions
 Write a program to input a string and print it.
 
 Write a program to find the length of a string.
