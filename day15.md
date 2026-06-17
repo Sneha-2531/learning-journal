@@ -1,4 +1,4 @@
-# Day 16 – Python Operators Practice
+# Day 15 – Python Operators Practice
 
 **Date:** 2026-06-16  
 
