@@ -18,3 +18,4 @@ Tracking my daily progress in Python, Excel, and data analysis.
 - [Day 15](day15.md)
 - [Day 16](day16.md)
 - [Day 17](day17.md)
+- [Day 18](day18.md)
