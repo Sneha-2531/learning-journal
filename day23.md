@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-27 (Saturday)  
 
-## Topics Revised
+## Topics Revised from w3 Schools
 - Python Intro  
 - Python Get Started  
 - Python Syntax  
