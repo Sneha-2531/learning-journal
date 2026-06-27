@@ -23,3 +23,4 @@ Tracking my daily progress in Python, Excel, and data analysis.
 - [Day 20](day20.md)
 - [Day 21](day21.md)
 - [Day 22](day22.md)
+- [Day 23](day23.md)
