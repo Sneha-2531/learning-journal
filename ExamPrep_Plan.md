@@ -13,4 +13,4 @@ This repository will serve as:
 - A personal exam preparation journal.
 - A record of daily progress across different subjects.
 - A way to maintain GitHub activity during exams.
-- These uploads are focused on exam revision, not new projects.
+- These uploads are focused on exam revision, not new topics.
