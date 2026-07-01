@@ -26,3 +26,4 @@ Tracking my daily progress in Python, Excel, and data analysis.
 - [Day 23](day23.md)
 - ExamPrep_Plan.md
 - [Day 24](day24.md)
+- [Day 25](day25.md)
